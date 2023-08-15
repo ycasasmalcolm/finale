@@ -50,7 +50,7 @@ disqusShortname = ''
 
 [params]
   sitename = "Awesome hugo blog"
-  avatar = "Malcolm.jpg"
+  avatar = "assets/Malcolm.jpg"
   defaultColor = "dark" # set color mode: dark, light, auto
   # Setting it to 'auto' applies the color scheme based on the visitor's device color preference.If you don't specify anything, ignore this parameter, or leave it blank,
   # the default value is set to 'auto'.
@@ -66,7 +66,7 @@ disqusShortname = ''
   # The file `custom.js` is loaded on each page (before body tag ends).
 
 [params.author]
-  avatar = "./malcolm.jpg" # put the file in assets folder; also ensure that image has same height and width
+  avatar = "assets/malcolm.jpg" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "All about Malcolm"
   name = "Malcolm Ycasas"
